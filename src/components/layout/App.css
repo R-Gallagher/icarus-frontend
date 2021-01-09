@@ -1,0 +1,20 @@
+.ant-layout-header .logo {
+  vertical-align: middle;
+  width: 120px;
+}
+
+.ant-layout-header ul {
+  float: right;
+}
+
+.ant-layout-footer {
+  text-align: center;
+  line-height: 5vh;
+  min-height: 5vh;
+  padding: 0;
+}
+
+.ant-layout-footer p {
+  vertical-align: middle;
+  margin: 0;
+}
